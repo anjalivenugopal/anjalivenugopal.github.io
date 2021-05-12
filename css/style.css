@@ -1,13 +1,8 @@
 
 .right-column{
-    border: 3px solid rgb(112, 97, 97);
-    background-color: #eee;
-    height: 200px;
-    width: 150px;
-    display: flex;
-    align-items: right;
-    justify-content: center;
-    float: right;
-    margin-right: 20px;
-    border-radius: 10px;
+    float: right;  
+    }
+.comment-box{
+    height: 80px;
+    width: 193px;
 }
